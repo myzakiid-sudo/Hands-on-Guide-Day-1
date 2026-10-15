@@ -1,4 +1,4 @@
-# Panduan Belajar & Implementasi: Web Landing Page Modern
+# Panduan Hands On Day 1
 
 Panduan ini dirancang untuk membimbing Anda membuat landing page modern dari awal menggunakan HTML5 semantik dan CSS murni (*vanilla CSS*).
 
